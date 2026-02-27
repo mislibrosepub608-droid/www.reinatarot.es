@@ -1,0 +1,1 @@
+ALTER TABLE `tarotistas` ADD `imageUrl` text;

@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1772101129973,
+      "tag": "0000_damp_ego",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1772101263673,
+      "tag": "0001_complete_manta",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1772103672831,
+      "tag": "0002_boring_rattler",
+      "breakpoints": true
+    }
+  ]
+}
